@@ -28,6 +28,8 @@ public class DemoApplication {
 				 System.out.println(beanName);
 			 }
 
+			 System.out.println("Added Ayub");
+
 		 };
 	}
 
