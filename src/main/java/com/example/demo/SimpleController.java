@@ -9,7 +9,7 @@ public class SimpleController {
     @RequestMapping("/")
     public String index(){
 
-        return "Hello Ayub!";
+        return "Hello Ayub! Congratulations you have connected your GitHub account with VSCode Via Git";
     }
     
 }
