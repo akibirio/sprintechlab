@@ -33,7 +33,9 @@ public class SwitchCalculator{
             }
 
             System.out.println(operandOne +" "+ operator + " "+ operandTwo + " = : " + result);
-           
+
+            // closing the scanner afer use
+            scan.close();
         }
        
 
